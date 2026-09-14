@@ -1,10 +1,10 @@
 # Pokémon OOP Java — Processing
 
-Projeto acadêmico desenvolvido em **Java** para aplicação prática de conceitos de **Programação Orientada a Objetos**, utilizando **Processing** como camada gráfica.
+Projeto feito em **Java** para aplicação prática de conceitos de **Programação Orientada a Objetos**, utilizando uma extensão do **Processing** como camada gráfica.
 
-A temática é inspirada em jogos clássicos de captura e evolução de criaturas. O projeto não pretende reproduzir integralmente nenhum jogo oficial: o foco é demonstrar organização de classes, persistência de dados, tratamento de exceções e construção de uma aplicação interativa com interface gráfica, áudio, sprites e animações.
+O ESTILO do programa foi INSPIRADO em jogos clássicos de Pokémon (como FireRed e Emerald). O programa não tenta reproduzir integralmente nenhum jogo oficial, o que fiz foi construir um mini jogo (tipo aqueles piratas da playstore) para demonstrar organização de classes, persistência de dados, tratamento de exceções e construção de uma aplicação interativa com interface gráfica, áudio, sprites e animações.
 
-> **Aviso:** projeto educacional e não comercial, sem vínculo oficial com Nintendo, Game Freak ou The Pokémon Company. Pokémon e seus personagens pertencem aos respectivos detentores de direitos.
+> **Aviso:** projeto educacional, então obviamente não é nada parecido com os jogos reais rpg de captura e batalha. Pokémon e seus personagens pertencem aos respectivos detentores de direitos.
 
 ## Funcionalidades
 
@@ -57,7 +57,7 @@ AudioManager.java
 JogoProcessing.java
 ```
 
-A lógica do jogo permanece separada da camada visual. `JogoProcessing.java` concentra a apresentação e interação gráfica, enquanto as demais classes representam as regras e entidades do sistema.
+A lógica do jogo permanece separada da camada visual. `JogoProcessing.java` tem a apresentação e interação gráfica, enquanto as demais classes representam as regras e entidades do sistema.
 
 ## Estrutura
 
@@ -150,7 +150,7 @@ Os recursos ficam separados da lógica Java dentro de `assets/`. Os sprites são
 
 ## Objetivo acadêmico
 
-O objetivo central é utilizar uma aplicação interativa para demonstrar conceitos estudados em **Programação Orientada a Objetos em Java**, combinando modelagem de classes, regras de negócio, persistência, exceções e interface gráfica.
+O objetivo central é utilizar uma aplicação interativa para demonstrar conceitos estudados em **Programação Orientada a Objetos em Java**, com modelagem de classes, regras de negócio, persistência, exceções e interface gráfica.
 
 ## Licença e propriedade intelectual
 
