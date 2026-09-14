@@ -1,4 +1,4 @@
-# Pokémon OOP Java — Processing
+# Pokémon POO Java — Processing
 
 Projeto feito em **Java** para aplicação prática de conceitos de **Programação Orientada a Objetos**, utilizando uma extensão do **Processing** como camada gráfica.
 
