@@ -104,8 +104,8 @@ javac -version
 Clone o repositório e entre na pasta:
 
 ```powershell
-git clone URL-DO-SEU-REPOSITORIO
-cd NOME-DO-REPOSITORIO
+git clone https://github.com/MiguelAroot/PokeCapture-Java-Simulator
+cd PokeCapture-Java-Simulator
 ```
 
 Na primeira execução, baixe a dependência do Processing:
