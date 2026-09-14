@@ -1,0 +1,16 @@
+# Java
+*.class
+bin/
+out/
+
+# Processing dependency downloaded by script
+lib/*.jar
+
+# Local save data
+saves/*
+!saves/.gitkeep
+save.txt
+
+# VS Code / OS
+.DS_Store
+Thumbs.db

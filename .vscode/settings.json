@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/processing-core.jar"
+  ],
+  "files.encoding": "utf8"
+}
